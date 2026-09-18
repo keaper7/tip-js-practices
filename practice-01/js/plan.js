@@ -1,8 +1,8 @@
 "use strict";
 
-const totalTasks = 12;
-const completedTasks = 5;
-const dailyLimit = 3;
+const totalTasks = 14;
+const completedTasks = 4;
+const dailyLimit = 4;
 
 if (totalTasks < 0) {
     console.log(`Ошибка: отрицательное количество.`);

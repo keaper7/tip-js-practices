@@ -1,7 +1,7 @@
 "use strict";
 
-const totalTasks = 5;
-const completedTasks = 0;
+const totalTasks = 14;
+const completedTasks = 4;
 
 console.log(`Всего задач: ${totalTasks}`);
 console.log(`Выполнено: ${completedTasks}`);
